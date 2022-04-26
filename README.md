@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CuervitoNaranja
+- 👀 I’m interested in bacterial pili 
+- 🌱 I’m currently learning predict the structure of pilW protein
+- 💞️ I’m looking to collaborate on pili protein research
+- 📫 How to reach me: you can contact me in gmail: aracelihersan@gmail.com
